@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TechAptitude</string>
+    <string name="Username">UserName</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="forget">ForgetPassword ?</string>
+    <string name="email_id">Email</string>
+</resources>
